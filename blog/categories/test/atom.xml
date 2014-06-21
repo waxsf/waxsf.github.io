@@ -4,7 +4,7 @@
   <title><![CDATA[Category: test | 标题要长]]></title>
   <link href="http://waxsf.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://waxsf.github.io/"/>
-  <updated>2014-06-21T12:52:19-05:00</updated>
+  <updated>2014-06-21T12:57:11-05:00</updated>
   <id>http://waxsf.github.io/</id>
   <author>
     <name><![CDATA[Simona Wu]]></name>
@@ -18,7 +18,10 @@
     <link href="http://waxsf.github.io/blog/2014/06/21/title/"/>
     <updated>2014-06-21T12:33:50-05:00</updated>
     <id>http://waxsf.github.io/blog/2014/06/21/title</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>这是第一篇有内容的blog</h2>
+
+<p>啦啦啦啦
+啦啦啦啦</p>
 ]]></content>
   </entry>
   
