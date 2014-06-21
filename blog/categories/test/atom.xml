@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[标题要长]]></title>
-  <link href="http://waxsf.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | 标题要长]]></title>
+  <link href="http://waxsf.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://waxsf.github.io/"/>
   <updated>2014-06-21T12:39:18-05:00</updated>
   <id>http://waxsf.github.io/</id>
@@ -18,15 +18,6 @@
     <link href="http://waxsf.github.io/blog/2014/06/21/title/"/>
     <updated>2014-06-21T12:33:50-05:00</updated>
     <id>http://waxsf.github.io/blog/2014/06/21/title</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Title]]></title>
-    <link href="http://waxsf.github.io/blog/2014/06/20/title/"/>
-    <updated>2014-06-20T13:45:47-05:00</updated>
-    <id>http://waxsf.github.io/blog/2014/06/20/title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
