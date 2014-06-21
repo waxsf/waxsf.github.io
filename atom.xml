@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[标题要长]]></title>
+  <link href="http://waxsf.github.io/atom.xml" rel="self"/>
+  <link href="http://waxsf.github.io/"/>
+  <updated>2014-06-20T23:00:48-05:00</updated>
+  <id>http://waxsf.github.io/</id>
+  <author>
+    <name><![CDATA[Simona Wu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://waxsf.github.io/blog/2014/06/20/title/"/>
+    <updated>2014-06-20T13:45:47-05:00</updated>
+    <id>http://waxsf.github.io/blog/2014/06/20/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
