@@ -4,7 +4,7 @@
   <title><![CDATA[标题要长]]></title>
   <link href="http://waxsf.github.io/atom.xml" rel="self"/>
   <link href="http://waxsf.github.io/"/>
-  <updated>2014-06-21T12:39:18-05:00</updated>
+  <updated>2014-06-21T12:52:19-05:00</updated>
   <id>http://waxsf.github.io/</id>
   <author>
     <name><![CDATA[Simona Wu]]></name>
@@ -23,7 +23,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Title]]></title>
+    <title type="html"><![CDATA[title]]></title>
     <link href="http://waxsf.github.io/blog/2014/06/20/title/"/>
     <updated>2014-06-20T13:45:47-05:00</updated>
     <id>http://waxsf.github.io/blog/2014/06/20/title</id>
